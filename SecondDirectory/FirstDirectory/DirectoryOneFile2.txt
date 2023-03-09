@@ -1,1 +1,3 @@
 Directory one- file one initial version
+
+This file has been moved to second directory
